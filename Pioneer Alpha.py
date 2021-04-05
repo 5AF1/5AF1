@@ -7,11 +7,11 @@ model = nn.Sequential(nn.Linear(2, 4),
                       nn.Linear(4, 1),
                       nn.Sigmoid())
 
-criterion = nn.NLLLoss()
+criterion = nn.BCELoss()
 
 # Random x and y
 x = torch.randn(10, 2)
-y = (F.sigmoid(torch.randn(10, 1)) >= .5)*1
+y = (torch.sigmoid(torch.randn(10, 1)) >= .5)*1.0
 
 y_hat = model(x)
 
