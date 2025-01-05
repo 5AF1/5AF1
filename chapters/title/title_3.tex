@@ -1,0 +1,53 @@
+\backgroundsetup{
+  scale=1,
+  angle=0,
+  opacity=1,
+  color=black,
+  position=current page.north west,
+  vshift=-1in,
+  hshift = 1.03in,
+  contents={%
+      \begin{tikzpicture}[remember picture,overlay]
+        \fill[Khaki1] (current page.west |- 0,-10in) rectangle (current page.north east);
+      \end{tikzpicture}
+      \ifthenelse{\thepage=1}{
+        \begin{tikzpicture}[remember picture,overlay]
+            \fill[SteelBlue4] (current page.west |- 0,-.8in) rectangle (current page.north east);
+        \end{tikzpicture}
+    }{}
+  }
+}
+
+% \backgroundsetup{
+%   scale=1,
+%   angle=0,
+%   opacity=1,
+%   color=black,
+%   position=current page.north west,
+%   vshift=-1in,
+%   hshift = 1.03in,
+%   contents={%
+%     \ifthenelse{\thepage=1}{
+%       \begin{tikzpicture}[remember picture,overlay]
+%         \fill[SteelBlue4] (current page.west |- 0,-.8in) rectangle (current page.north east);
+%       \end{tikzpicture}
+%     }{}
+%   }
+% }
+
+% \begin{tcolorbox}[colback=cyan, colframe=cyan, arc=0pt, outer arc=0pt, boxrule=0pt]
+%     \centering
+%     {\large\styleName}\\[1ex]
+%     \stylePhone $\:|\:$ \styleMail $\:|\:$ \styleLinkedin $\:|\:$ \styleGithub\\
+%     \styleAddress
+% \end{tcolorbox}
+
+\begin{center}
+    %\roundPic{0.25cm}{4cm}{img/safi.jpg}\vspace{12pt}\\ 
+    \color{Khaki1}
+    \styleName\\
+    \stylePhone$\:|\:$\styleMail$\:|\:$ 
+    \styleLinkedin $\:|\:$\styleGithub  \vspace{8pt} \\
+    \styleAddress \vspace{30pt}
+\end{center}
+%\styleLastUpdate

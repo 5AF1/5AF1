@@ -1,0 +1,18 @@
+{
+    "latex-workshop.docker.enabled": true,
+    "latex-workshop.docker.image.latex": "ghcr.io/xu-cheng/texlive-full",
+    "latex-workshop.latex.clean.method": "glob",
+    "latex-workshop.latex.outDir": "%DIR%/output",
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.latex.recipe.default": "lastUsed",
+    "latex-workshop.latex.rootFile.indicator": "\\begin{document}",
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
+    },
+    "latex-workshop.formatting.latex": "latexindent",
+    "latex-workshop.linting.run": "onType",
+    "latex-workshop.bibtex-format.sort.enabled": true,
+    "latex-workshop.bibtex-format.trailingComma": true,
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "latex-workshop.linting.lacheck.enabled": true,
+}

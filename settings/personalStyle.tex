@@ -1,0 +1,32 @@
+%----------------------------------
+% Personal Info style  
+\newcommand{\styleName}{
+    \textbf{\titleSize \scshape {\constName}}\vspace{8pt}
+}
+\newcommand{\stylePhone}{
+    \faPhone$\;\;$\headingSize{\constPhone}
+}
+\newcommand{\styleMail}{
+    $\!$\faGoogle$\,${
+        \href{mailto:\constMail}
+        {\headingSize \underline{\constMail}}
+    }
+}
+\newcommand{\styleLinkedin}{
+    \faLinkedinSquare$\:${
+        \href{\constLinkedinURL}
+        {\headingSize\underline{\constLinkedin}}
+    }
+}
+\newcommand{\styleGithub}{
+    \faGithub $\,\!$ {
+        \href{\constGithubURL}
+        {\headingSize\underline{\constGithub}}
+    }
+}
+\newcommand{\styleAddress}{
+    {\headingSize \constAddress}
+}
+\newcommand{\styleLastUpdate}{
+    \textit{\constLastUpdate}
+}

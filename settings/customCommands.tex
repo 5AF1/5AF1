@@ -1,0 +1,53 @@
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\dafaultSize{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\headingSize#1} & \headingSize#2 \\
+      \textit{\subHeadingSize#3} & \textit{\subHeadingSize #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\dafaultSize#1} & \textit{\dafaultSize #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \dafaultSize#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\blacktriangleright$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------
+% My commands
+\newcommand{\resumeParagraphStart}{\begin{adjustwidth}{0.15in}{}\dafaultSize}
+\newcommand{\resumeParagraphEnd}{\end{adjustwidth}}
+
+\newcommand{\roundPic}[3]{
+    \begin{tikzpicture} 
+        \begin{scope}
+            \clip [rounded corners = #1] (0,0) rectangle coordinate (centerpoint) ( #2, #2); 
+            \node [inner sep=0pt] at (centerpoint) 
+            {\includegraphics[width = #2]{#3}};
+        \end{scope}
+    \end{tikzpicture}
+}

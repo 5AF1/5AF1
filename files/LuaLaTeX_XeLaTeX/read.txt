@@ -1,0 +1,599 @@
+Aboriginal Serif
+Abyssinica SIL
+Accanthis ADF Std No3
+Alegreya
+Alfios
+AlgolRevived
+Annapurna SIL
+Antykwa Poltawskiego
+Antykwa Poltawskiego Light
+Antykwa Torunska
+Antykwa Torunska Condensed
+Arapey
+Asea
+Avdira
+Averia Serif GWF
+BABEL Unicode
+Baskervald ADF Std
+Baskervaldx
+BaskervilleF
+Berenis ADF Pro
+Berenis ADF Pro SC
+Berylium
+Bitstream Vera Serif
+Bookman Uralic
+BPG Serif GPL&GNU
+BPG Serif Modern GPL&GNU
+C059
+Caladea
+Cardo
+Caslon
+Century Catalogue
+Charis SIL
+Charis SIL Compact
+Cinzel
+Cinzel Decorative
+Clara
+CMU Concrete
+CMU Serif
+CMU Serif Extra
+CMU Serif Upright Italic
+CMU Typewriter Text Variable Width
+Cochineal
+Coelacanth
+Conakry
+Cormorant Garamond
+Credit River
+Credit Valley
+Crimson
+Crimson Pro
+DejaVu Serif
+Domitian
+Doulos SIL
+Doulos SIL Compact
+Droid Serif
+Dustismo Roman
+EB Garamond
+Echelon Condensed
+Eczar
+Edmunds
+Edmunds Distressed
+Effloresce
+Effloresce Antique
+Elstob
+EMERITA Latina
+Essays1743
+ETbb
+Ezra SIL
+Ezra SIL SR
+Fanwood
+Fanwood Text
+Foulis Greek
+FreeSerif
+Furat
+Galatia SIL
+Gayathri
+Gentium
+Gentium Basic
+Gentium Book Basic
+Gentium Plus
+Gentium Plus Compact
+GentiumAlt
+Georgia
+GFS Artemisia
+GFS Bodoni
+GFS Didot
+Goodfish
+Goudy Bookletter 1911
+Heuristica
+IBM Plex Serif
+IM FELL DW Pica
+IM FELL English
+IM FELL English SC
+IndUni-N
+IndUni-P
+IndUni-T
+Inria Serif
+Irianis ADF Std
+Irianis ADF Style Std
+Junicode
+Kalpurush
+KpRoman
+Latin Modern Roman
+Latin Modern Roman Dunhill
+Liberation Serif
+Libertinus Serif
+Libre Baskerville
+Libre Bodoni
+Libre Caslon Text
+Linden Hill
+Linux Libertine Display O
+Linux Libertine O
+Mekanus ADF Std
+Mekanus ADF Titling Std
+Merriweather
+Merriweather Light
+MPH 2B Damase
+NewComputerModern08
+NewComputerModern10
+Nimbus Roman
+Noto Serif
+NovelDeco
+Old Standard TT
+Oradano-mincho-GSRR
+Palladio Uralic
+Parix
+Playfair Display
+Prociono
+PT Serif
+QTAntiquePost
+QTBasker
+QTBengal
+QTBodini
+QTBookmann
+QTCaslan
+QTCaslanOpen
+QTFrizQuad
+QTGaromand
+QTGraphLite
+QTGraveure
+QTKorrin
+QTOldGoudy
+QTPalatine
+QTSchoolCentury
+QTWeise
+Quattrocento
+Rasa
+RIT-Sundar
+Roboto Slab
+Romande ADF No2 Std
+Romande ADF Std
+Romande ADF Style Std
+Schoolbook Uralic
+Soufflet Vert
+Source Serif Pro
+Spira
+Subpear
+Sweynheim & Pannartz
+Symbola
+Tempora
+TeX Gyre Bonum
+TeX Gyre Pagella
+TeX Gyre PagellaX
+TeX Gyre Schola
+TeX Gyre ScholaX
+TeX Gyre Termes
+TeX Gyre TermesX
+Times New Roman
+Tinos
+Tribun ADF Std
+Tymes
+URW Bookman
+Vahika
+Verana
+Vollkorn
+XCharter
+Yrsa
+Aboriginal Sans
+Aerial
+Alegreya Sans
+Allerta
+Andika
+Andika Compact
+Andika New Basic
+Angostura
+Angostura Black
+Arial
+Arimo
+Aroania
+Asap
+Averia GWF
+Averia Sans GWF
+B612
+Baloo 2
+Bebas Neue
+Berenika
+Bitstream Vera Sans
+Blue Highway
+BPG DejaVu Sans 2011 GNU-GPL
+BPG Mrgvlovani GPL&GNU
+BPG Nateli Condenced GPL&GNU
+BPG Nateli GPL&GNU
+BPG Sans GPL&GNU
+BPG Sans Medium GPL&GNU
+BPG Sans Modern GPL&GNU
+BPG Sans Regular GPL&GNU
+Cabin
+Cabin Condensed
+Cantarell
+Carlito
+Chivo
+Clear Sans
+CMU Bright
+CMU Sans Serif
+CMU Sans Serif Demi Condensed
+Comfortaa
+Comic Neue
+Comic Neue Angular
+Comic Neue Angular Light
+Comic Neue Light
+Comic Sans MS
+Cranberry Gin
+Cuprum
+DejaVu Sans
+Dosis
+Dream Orphans
+Droid
+Droid Sans
+Dustismo
+Dyuthi
+Eden Mills
+Electron
+Engebrechtre
+Engebrechtre Expanded
+eurofurence
+eurofurence classic
+eurofurence classic light
+eurofurence light
+Fetamont
+Fetamont Script
+Fira Sans
+Forgotten Futurist
+Forgotten Futurist College
+FreeSans
+Gemunu Libre
+Gemunu Libre ExtraLight
+GFS Neohellenic
+Gillius ADF
+Gillius ADF Cond
+Gillius ADF No2
+Gillius ADF No2 Cond
+Go
+GoSmallcaps
+Gothic Uralic
+Gotu
+Guanine
+Haramain
+Hind Madurai
+Hor
+IBM Plex Sans
+IBM Plex Sans Condensed
+Ikarius ADF No2 Std
+Ikarius ADF Std
+IndUni-H
+Inria Sans
+Inter
+Iwona
+Iwona Cond
+Iwona Cond Heavy
+Iwona Cond Light
+Iwona Cond Medium
+Iwona Heavy
+Iwona Light
+Iwona Medium
+Jara
+Josefin Sans
+Junction
+Jura
+Karmilla
+Klaudia
+KpSans
+Kurier
+Kurier Cond
+Kurier Cond Heavy
+Kurier Cond Light
+Kurier Cond Medium
+Kurier Heavy
+Kurier Light
+Kurier Medium
+Latin Modern Sans
+Latin Modern Sans Demi Cond
+Latin Modern Sans Quotation
+Lato
+League Spartan
+Libel Suit
+Liberation Sans
+Liberation Sans Narrow
+Libertinus Keyboard
+Libertinus Sans
+Libris ADF Std
+Linux Biolinum Keyboard O
+Linux Biolinum O
+Manrope
+Merriweather Sans
+Mint Spirit
+Mint Spirit No2
+Montserrat
+Montserrat Alternates
+Mukta
+NewComputerModernSans08
+NewComputerModernSans10
+Nimbus Sans
+Nimbus Sans Narrow
+Noto Sans
+Open Sans
+OpenDyslexic
+OpenDyslexicAlta
+Overlock
+Oxygen-Sans
+Pakenham
+Play
+Primer Print
+PT Sans
+PT Sans Caption
+PT Sans Narrow
+QTAgateType
+QTAncientOlive
+QTAvanti
+QTDoghaus
+QTEraType
+QTEurotype
+QTFloraline
+QTFrank
+QTFuture
+QTHelvetCnd
+QTHowardType
+QTLetterGoth
+QTOptimum
+QTParisFrance
+QTPeignoir
+QTVagaRound
+Quattrocento Sans
+Quicksand
+Radis Sans
+Raleway
+Roboto
+Roboto Condensed
+Rosario
+Sans Condensed Uralic
+Sans Uralic
+Sophia Nubian
+Sora
+Source Sans Pro
+Spongy
+Steelfish
+STOMP_Zeroes
+Switzera ADF
+Taogu
+Teen
+TeX Gyre Adventor
+TeX Gyre Heros
+TeX Gyre Heros Cn
+Trebuchet MS
+Tuffy
+Ubuntu
+unifur
+Universalis ADF Std
+URW Gothic
+Verana Sans
+Veranda
+Verdana
+Yanone Kaffeesatz
+Zrnic
+AeMMono10
+Aerial Mono
+Andale Mono
+Anonymous Pro
+B612 Mono
+BabelStone Modern
+Bitstream Vera Sans Mono
+Cascadia Cod3
+Cascadia Code PL
+CMU Typewriter Text
+Courier 10 Pitch
+Courier New
+Cousine
+Cuomotype
+D2Coding
+D2Coding ligature
+DejaVu Sans Mono
+Droid Sans Mono
+Fantasque Sans Mono
+Fira Code
+Fira Mono
+FreeMono
+GNUTypewriter
+Go Mono
+GWMonospace
+Hack
+IBM Plex Mono
+Inconsolata
+InconsolataN
+Inconsolatazi4
+IndUni-C
+JetBrains Mono
+KpMono
+Larabiefont
+Latin Modern Mono
+Latin Modern Mono Caps
+Latin Modern Mono Light
+Latin Modern Mono Light Cond
+Latin Modern Mono Prop
+Latin Modern Mono Prop Light
+Latin Modern Mono Slanted
+League Mono
+Liberation Mono
+Libertinus Mono
+Linux Libertine Mono O
+Logix Mono
+Mono Uralic
+Monofonto
+monofur
+mononoki
+NewComputerModernMono10
+Nimbus Mono
+Nimbus Mono PS
+Noto Mono
+Noto Sans Mono
+OpenDyslexicMono
+osifont
+Oxygen Mono
+PT Mono
+QTChicagoland
+QTPristine
+QTRobotic2000
+Ricty Diminished
+Ricty Diminished Discord
+Roboto Mono
+Source Code Pro
+TeX Gyre Cursor
+Ubuntu Mono
+UM Typewriter
+Unispace
+Apropal
+Apropal Bold
+Arial Black
+Carbon Block
+Carbon Phyber
+Coolvetica
+Cyklop
+Gemunu Libre ExtraBold
+Guanine
+Impact
+Kenyan Coffee
+Kimberley
+Millimetre
+Mold Papa
+Oliver's Barney
+Pricedown
+QTAtchen
+QTBlimpo
+QTBodiniPoster
+QTDeuce
+QTDoghausHeavy
+QTFrankHeavy
+QTGreece
+QTHowardTypeFat
+QTImpromptu
+QTKooper
+QTMilitary
+QTTheatre
+Rustproof Body
+Screengem
+Should've Known
+Strenuous
+Sui Generis
+Velvenda Megablack
+Vipnagorgialla
+Vollkorn ExtraBold
+Bajaderka
+Bramalea Beauty
+Chancery Uralic
+Colourbars
+Compagnon
+Compagnon Italic
+Cretino
+Dancing Script
+Deftone Stylus
+Dyspepsia
+Elegante
+Great Vibes
+Joscelyn
+Kerkis-Calligraphic
+LeckerliOne
+Lemonada
+Lesser Concern
+Lobster Two
+Miama Nueva
+Oldania ADF Std
+Port Credit
+Ptolemy
+QTArabian
+QTArnieB
+QTArtiston
+QTBeckman
+QTBoulevard
+QTBrushStroke
+QTCaligulatype
+QTCanaithtype
+QTChanceryType
+QTCoronation
+QTFlorencia
+QTHoboken
+QTLautrecType
+QTLinostroke
+QTMerryScript
+QTPandora
+QTSlogantype
+QTUSA-Uncial
+QTWestEnd
+Rina
+Roman Uralic
+Romande ADF Script Std
+Rot
+Rusch
+TeX Gyre Chorus
+TriodPostnaja
+Z003
+AirCut
+Breip
+Cabin Sketch
+CabinSketch
+Comic Neue
+Comic Neue Angular
+Comic Sans MS
+Deportees
+DkgHandwriting
+Domestic Manners
+Duality
+El Abogado Loco
+Eye Rhyme
+Field Day Filter
+Havana
+Hurontario
+Junction
+Karumbi
+Kaushan Script
+Kleptocracy
+Kristi
+Minya Nouvelle
+Mufferaw
+Pecita
+Pupcat
+Purisa
+QTAbbie
+QTCascadetype
+QTCasual
+QTHandwriting
+QTKung-Fu
+QTMagicMarker
+QTSanDiego
+QTTechtone
+Rufscript
+SetoFont
+Still Time
+Tork
+Walshes
+Blankenburg_UNZ1A
+Fette classic UNZ Fraktur
+Fust & Schoeffer
+Gamaliel
+Hamlet
+Jessen
+Isabella
+QTBlackForest
+QTCloisteredMonk
+QTDublinIrish
+QTFraktur
+QTHeidelbergType
+QTLinoscroll
+QTLondonScroll
+Zainer
+Asana Math
+Erewhon Math
+Fira Math
+GFS Neohellenic Math
+Garamond-Math
+KpMath
+Latin Modern Math
+Libertinus Math
+NewComputerModernMath
+STIX Math
+STIX Two Math
+TeX Gyre Bonum Math
+TeX Gyre DejaVu Math
+TeX Gyre Pagella Math
+TeX Gyre Schola Math
+TeX Gyre Termes Math
+XCharter Math
+XITS Math

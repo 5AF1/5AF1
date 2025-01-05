@@ -1,0 +1,599 @@
+\setmainfont{Aboriginal Serif} Md. Safirur Rashid \qquad (Aboriginal Serif) \\
+\setmainfont{Abyssinica SIL} Md. Safirur Rashid \qquad (Abyssinica SIL) \\
+\setmainfont{Accanthis ADF Std No3} Md. Safirur Rashid \qquad (Accanthis ADF Std No3) \\
+\setmainfont{Alegreya} Md. Safirur Rashid \qquad (Alegreya) \\
+\setmainfont{Alfios} Md. Safirur Rashid \qquad (Alfios) \\
+\setmainfont{AlgolRevived} Md. Safirur Rashid \qquad (AlgolRevived) \\
+\setmainfont{Annapurna SIL} Md. Safirur Rashid \qquad (Annapurna SIL) \\
+\setmainfont{Antykwa Poltawskiego} Md. Safirur Rashid \qquad (Antykwa Poltawskiego) \\
+\setmainfont{Antykwa Poltawskiego Light} Md. Safirur Rashid \qquad (Antykwa Poltawskiego Light) \\
+\setmainfont{Antykwa Torunska} Md. Safirur Rashid \qquad (Antykwa Torunska) \\
+\setmainfont{Antykwa Torunska Condensed} Md. Safirur Rashid \qquad (Antykwa Torunska Condensed) \\
+\setmainfont{Arapey} Md. Safirur Rashid \qquad (Arapey) \\
+\setmainfont{Asea} Md. Safirur Rashid \qquad (Asea) \\
+\setmainfont{Avdira} Md. Safirur Rashid \qquad (Avdira) \\
+\setmainfont{Averia Serif GWF} Md. Safirur Rashid \qquad (Averia Serif GWF) \\
+\setmainfont{BABEL Unicode} Md. Safirur Rashid \qquad (BABEL Unicode) \\
+\setmainfont{Baskervald ADF Std} Md. Safirur Rashid \qquad (Baskervald ADF Std) \\
+\setmainfont{Baskervaldx} Md. Safirur Rashid \qquad (Baskervaldx) \\
+\setmainfont{BaskervilleF} Md. Safirur Rashid \qquad (BaskervilleF) \\
+\setmainfont{Berenis ADF Pro} Md. Safirur Rashid \qquad (Berenis ADF Pro) \\
+\setmainfont{Berenis ADF Pro SC} Md. Safirur Rashid \qquad (Berenis ADF Pro SC) \\
+\setmainfont{Berylium} Md. Safirur Rashid \qquad (Berylium) \\
+\setmainfont{Bitstream Vera Serif} Md. Safirur Rashid \qquad (Bitstream Vera Serif) \\
+\setmainfont{Bookman Uralic} Md. Safirur Rashid \qquad (Bookman Uralic) \\
+\setmainfont{BPG Serif GPL&GNU} Md. Safirur Rashid \qquad (BPG Serif GPL\&GNU) \\
+\setmainfont{BPG Serif Modern GPL&GNU} Md. Safirur Rashid \qquad (BPG Serif Modern GPL\&GNU) \\
+\setmainfont{C059} Md. Safirur Rashid \qquad (C059) \\
+\setmainfont{Caladea} Md. Safirur Rashid \qquad (Caladea) \\
+\setmainfont{Cardo} Md. Safirur Rashid \qquad (Cardo) \\
+\setmainfont{Caslon} Md. Safirur Rashid \qquad (Caslon) \\
+\setmainfont{Century Catalogue} Md. Safirur Rashid \qquad (Century Catalogue) \\
+\setmainfont{Charis SIL} Md. Safirur Rashid \qquad (Charis SIL) \\
+\setmainfont{Charis SIL Compact} Md. Safirur Rashid \qquad (Charis SIL Compact) \\
+\setmainfont{Cinzel} Md. Safirur Rashid \qquad (Cinzel) \\
+\setmainfont{Cinzel Decorative} Md. Safirur Rashid \qquad (Cinzel Decorative) \\
+\setmainfont{Clara} Md. Safirur Rashid \qquad (Clara) \\
+\setmainfont{CMU Concrete} Md. Safirur Rashid \qquad (CMU Concrete) \\
+\setmainfont{CMU Serif} Md. Safirur Rashid \qquad (CMU Serif) \\
+\setmainfont{CMU Serif Extra} Md. Safirur Rashid \qquad (CMU Serif Extra) \\
+\setmainfont{CMU Serif Upright Italic} Md. Safirur Rashid \qquad (CMU Serif Upright Italic) \\
+\setmainfont{CMU Typewriter Text Variable Width} Md. Safirur Rashid \qquad (CMU Typewriter Text Variable Width) \\
+\setmainfont{Cochineal} Md. Safirur Rashid \qquad (Cochineal) \\
+\setmainfont{Coelacanth} Md. Safirur Rashid \qquad (Coelacanth) \\
+\setmainfont{Conakry} Md. Safirur Rashid \qquad (Conakry) \\
+\setmainfont{Cormorant Garamond} Md. Safirur Rashid \qquad (Cormorant Garamond) \\
+\setmainfont{Credit River} Md. Safirur Rashid \qquad (Credit River) \\
+\setmainfont{Credit Valley} Md. Safirur Rashid \qquad (Credit Valley) \\
+\setmainfont{Crimson} Md. Safirur Rashid \qquad (Crimson) \\
+\setmainfont{Crimson Pro} Md. Safirur Rashid \qquad (Crimson Pro) \\
+\setmainfont{DejaVu Serif} Md. Safirur Rashid \qquad (DejaVu Serif) \\
+\setmainfont{Domitian} Md. Safirur Rashid \qquad (Domitian) \\
+\setmainfont{Doulos SIL} Md. Safirur Rashid \qquad (Doulos SIL) \\
+\setmainfont{Doulos SIL Compact} Md. Safirur Rashid \qquad (Doulos SIL Compact) \\
+\setmainfont{Droid Serif} Md. Safirur Rashid \qquad (Droid Serif) \\
+\setmainfont{Dustismo Roman} Md. Safirur Rashid \qquad (Dustismo Roman) \\
+\setmainfont{EB Garamond} Md. Safirur Rashid \qquad (EB Garamond) \\
+\setmainfont{Echelon Condensed} Md. Safirur Rashid \qquad (Echelon Condensed) \\
+\setmainfont{Eczar} Md. Safirur Rashid \qquad (Eczar) \\
+\setmainfont{Edmunds} Md. Safirur Rashid \qquad (Edmunds) \\
+\setmainfont{Edmunds Distressed} Md. Safirur Rashid \qquad (Edmunds Distressed) \\
+\setmainfont{Effloresce} Md. Safirur Rashid \qquad (Effloresce) \\
+\setmainfont{Effloresce Antique} Md. Safirur Rashid \qquad (Effloresce Antique) \\
+\setmainfont{Elstob} Md. Safirur Rashid \qquad (Elstob) \\
+\setmainfont{EMERITA Latina} Md. Safirur Rashid \qquad (EMERITA Latina) \\
+\setmainfont{Essays1743} Md. Safirur Rashid \qquad (Essays1743) \\
+\setmainfont{ETbb} Md. Safirur Rashid \qquad (ETbb) \\
+\setmainfont{Ezra SIL} Md. Safirur Rashid \qquad (Ezra SIL) \\
+\setmainfont{Ezra SIL SR} Md. Safirur Rashid \qquad (Ezra SIL SR) \\
+\setmainfont{Fanwood} Md. Safirur Rashid \qquad (Fanwood) \\
+\setmainfont{Fanwood Text} Md. Safirur Rashid \qquad (Fanwood Text) \\
+\setmainfont{Foulis Greek} Md. Safirur Rashid \qquad (Foulis Greek) \\
+\setmainfont{FreeSerif} Md. Safirur Rashid \qquad (FreeSerif) \\
+\setmainfont{Furat} Md. Safirur Rashid \qquad (Furat) \\
+\setmainfont{Galatia SIL} Md. Safirur Rashid \qquad (Galatia SIL) \\
+\setmainfont{Gayathri} Md. Safirur Rashid \qquad (Gayathri) \\
+\setmainfont{Gentium} Md. Safirur Rashid \qquad (Gentium) \\
+\setmainfont{Gentium Basic} Md. Safirur Rashid \qquad (Gentium Basic) \\
+\setmainfont{Gentium Book Basic} Md. Safirur Rashid \qquad (Gentium Book Basic) \\
+\setmainfont{Gentium Plus} Md. Safirur Rashid \qquad (Gentium Plus) \\
+\setmainfont{Gentium Plus Compact} Md. Safirur Rashid \qquad (Gentium Plus Compact) \\
+\setmainfont{GentiumAlt} Md. Safirur Rashid \qquad (GentiumAlt) \\
+\setmainfont{Georgia} Md. Safirur Rashid \qquad (Georgia) \\
+\setmainfont{GFS Artemisia} Md. Safirur Rashid \qquad (GFS Artemisia) \\
+\setmainfont{GFS Bodoni} Md. Safirur Rashid \qquad (GFS Bodoni) \\
+\setmainfont{GFS Didot} Md. Safirur Rashid \qquad (GFS Didot) \\
+\setmainfont{Goodfish} Md. Safirur Rashid \qquad (Goodfish) \\
+\setmainfont{Goudy Bookletter 1911} Md. Safirur Rashid \qquad (Goudy Bookletter 1911) \\
+\setmainfont{Heuristica} Md. Safirur Rashid \qquad (Heuristica) \\
+\setmainfont{IBM Plex Serif} Md. Safirur Rashid \qquad (IBM Plex Serif) \\
+\setmainfont{IM FELL DW Pica} Md. Safirur Rashid \qquad (IM FELL DW Pica) \\
+\setmainfont{IM FELL English} Md. Safirur Rashid \qquad (IM FELL English) \\
+\setmainfont{IM FELL English SC} Md. Safirur Rashid \qquad (IM FELL English SC) \\
+\setmainfont{IndUni-N} Md. Safirur Rashid \qquad (IndUni-N) \\
+\setmainfont{IndUni-P} Md. Safirur Rashid \qquad (IndUni-P) \\
+\setmainfont{IndUni-T} Md. Safirur Rashid \qquad (IndUni-T) \\
+\setmainfont{Inria Serif} Md. Safirur Rashid \qquad (Inria Serif) \\
+\setmainfont{Irianis ADF Std} Md. Safirur Rashid \qquad (Irianis ADF Std) \\
+\setmainfont{Irianis ADF Style Std} Md. Safirur Rashid \qquad (Irianis ADF Style Std) \\
+\setmainfont{Junicode} Md. Safirur Rashid \qquad (Junicode) \\
+\setmainfont{Kalpurush} Md. Safirur Rashid \qquad (Kalpurush) \\
+\setmainfont{KpRoman} Md. Safirur Rashid \qquad (KpRoman) \\
+\setmainfont{Latin Modern Roman} Md. Safirur Rashid \qquad (Latin Modern Roman) \\
+\setmainfont{Latin Modern Roman Dunhill} Md. Safirur Rashid \qquad (Latin Modern Roman Dunhill) \\
+\setmainfont{Liberation Serif} Md. Safirur Rashid \qquad (Liberation Serif) \\
+\setmainfont{Libertinus Serif} Md. Safirur Rashid \qquad (Libertinus Serif) \\
+\setmainfont{Libre Baskerville} Md. Safirur Rashid \qquad (Libre Baskerville) \\
+\setmainfont{Libre Bodoni} Md. Safirur Rashid \qquad (Libre Bodoni) \\
+\setmainfont{Libre Caslon Text} Md. Safirur Rashid \qquad (Libre Caslon Text) \\
+\setmainfont{Linden Hill} Md. Safirur Rashid \qquad (Linden Hill) \\
+\setmainfont{Linux Libertine Display O} Md. Safirur Rashid \qquad (Linux Libertine Display O) \\
+\setmainfont{Linux Libertine O} Md. Safirur Rashid \qquad (Linux Libertine O) \\
+\setmainfont{Mekanus ADF Std} Md. Safirur Rashid \qquad (Mekanus ADF Std) \\
+\setmainfont{Mekanus ADF Titling Std} Md. Safirur Rashid \qquad (Mekanus ADF Titling Std) \\
+\setmainfont{Merriweather} Md. Safirur Rashid \qquad (Merriweather) \\
+\setmainfont{Merriweather Light} Md. Safirur Rashid \qquad (Merriweather Light) \\
+\setmainfont{MPH 2B Damase} Md. Safirur Rashid \qquad (MPH 2B Damase) \\
+\setmainfont{NewComputerModern08} Md. Safirur Rashid \qquad (NewComputerModern08) \\
+\setmainfont{NewComputerModern10} Md. Safirur Rashid \qquad (NewComputerModern10) \\
+\setmainfont{Nimbus Roman} Md. Safirur Rashid \qquad (Nimbus Roman) \\
+\setmainfont{Noto Serif} Md. Safirur Rashid \qquad (Noto Serif) \\
+\setmainfont{NovelDeco} Md. Safirur Rashid \qquad (NovelDeco) \\
+\setmainfont{Old Standard TT} Md. Safirur Rashid \qquad (Old Standard TT) \\
+\setmainfont{Oradano-mincho-GSRR} Md. Safirur Rashid \qquad (Oradano-mincho-GSRR) \\
+\setmainfont{Palladio Uralic} Md. Safirur Rashid \qquad (Palladio Uralic) \\
+\setmainfont{Parix} Md. Safirur Rashid \qquad (Parix) \\
+\setmainfont{Playfair Display} Md. Safirur Rashid \qquad (Playfair Display) \\
+\setmainfont{Prociono} Md. Safirur Rashid \qquad (Prociono) \\
+\setmainfont{PT Serif} Md. Safirur Rashid \qquad (PT Serif) \\
+\setmainfont{QTAntiquePost} Md. Safirur Rashid \qquad (QTAntiquePost) \\
+\setmainfont{QTBasker} Md. Safirur Rashid \qquad (QTBasker) \\
+\setmainfont{QTBengal} Md. Safirur Rashid \qquad (QTBengal) \\
+\setmainfont{QTBodini} Md. Safirur Rashid \qquad (QTBodini) \\
+\setmainfont{QTBookmann} Md. Safirur Rashid \qquad (QTBookmann) \\
+\setmainfont{QTCaslan} Md. Safirur Rashid \qquad (QTCaslan) \\
+\setmainfont{QTCaslanOpen} Md. Safirur Rashid \qquad (QTCaslanOpen) \\
+\setmainfont{QTFrizQuad} Md. Safirur Rashid \qquad (QTFrizQuad) \\
+\setmainfont{QTGaromand} Md. Safirur Rashid \qquad (QTGaromand) \\
+\setmainfont{QTGraphLite} Md. Safirur Rashid \qquad (QTGraphLite) \\
+\setmainfont{QTGraveure} Md. Safirur Rashid \qquad (QTGraveure) \\
+\setmainfont{QTKorrin} Md. Safirur Rashid \qquad (QTKorrin) \\
+\setmainfont{QTOldGoudy} Md. Safirur Rashid \qquad (QTOldGoudy) \\
+\setmainfont{QTPalatine} Md. Safirur Rashid \qquad (QTPalatine) \\
+\setmainfont{QTSchoolCentury} Md. Safirur Rashid \qquad (QTSchoolCentury) \\
+\setmainfont{QTWeise} Md. Safirur Rashid \qquad (QTWeise) \\
+\setmainfont{Quattrocento} Md. Safirur Rashid \qquad (Quattrocento) \\
+\setmainfont{Rasa} Md. Safirur Rashid \qquad (Rasa) \\
+\setmainfont{RIT-Sundar} Md. Safirur Rashid \qquad (RIT-Sundar) \\
+\setmainfont{Roboto Slab} Md. Safirur Rashid \qquad (Roboto Slab) \\
+\setmainfont{Romande ADF No2 Std} Md. Safirur Rashid \qquad (Romande ADF No2 Std) \\
+\setmainfont{Romande ADF Std} Md. Safirur Rashid \qquad (Romande ADF Std) \\
+\setmainfont{Romande ADF Style Std} Md. Safirur Rashid \qquad (Romande ADF Style Std) \\
+\setmainfont{Schoolbook Uralic} Md. Safirur Rashid \qquad (Schoolbook Uralic) \\
+\setmainfont{Soufflet Vert} Md. Safirur Rashid \qquad (Soufflet Vert) \\
+\setmainfont{Source Serif Pro} Md. Safirur Rashid \qquad (Source Serif Pro) \\
+\setmainfont{Spira} Md. Safirur Rashid \qquad (Spira) \\
+\setmainfont{Subpear} Md. Safirur Rashid \qquad (Subpear) \\
+\setmainfont{Sweynheim & Pannartz} Md. Safirur Rashid \qquad (Sweynheim \& Pannartz) \\
+\setmainfont{Symbola} Md. Safirur Rashid \qquad (Symbola) \\
+\setmainfont{Tempora} Md. Safirur Rashid \qquad (Tempora) \\
+\setmainfont{TeX Gyre Bonum} Md. Safirur Rashid \qquad (TeX Gyre Bonum) \\
+\setmainfont{TeX Gyre Pagella} Md. Safirur Rashid \qquad (TeX Gyre Pagella) \\
+\setmainfont{TeX Gyre PagellaX} Md. Safirur Rashid \qquad (TeX Gyre PagellaX) \\
+\setmainfont{TeX Gyre Schola} Md. Safirur Rashid \qquad (TeX Gyre Schola) \\
+\setmainfont{TeX Gyre ScholaX} Md. Safirur Rashid \qquad (TeX Gyre ScholaX) \\
+\setmainfont{TeX Gyre Termes} Md. Safirur Rashid \qquad (TeX Gyre Termes) \\
+\setmainfont{TeX Gyre TermesX} Md. Safirur Rashid \qquad (TeX Gyre TermesX) \\
+\setmainfont{Times New Roman} Md. Safirur Rashid \qquad (Times New Roman) \\
+\setmainfont{Tinos} Md. Safirur Rashid \qquad (Tinos) \\
+\setmainfont{Tribun ADF Std} Md. Safirur Rashid \qquad (Tribun ADF Std) \\
+\setmainfont{Tymes} Md. Safirur Rashid \qquad (Tymes) \\
+\setmainfont{URW Bookman} Md. Safirur Rashid \qquad (URW Bookman) \\
+\setmainfont{Vahika} Md. Safirur Rashid \qquad (Vahika) \\
+\setmainfont{Verana} Md. Safirur Rashid \qquad (Verana) \\
+\setmainfont{Vollkorn} Md. Safirur Rashid \qquad (Vollkorn) \\
+\setmainfont{XCharter} Md. Safirur Rashid \qquad (XCharter) \\
+\setmainfont{Yrsa} Md. Safirur Rashid \qquad (Yrsa) \\
+\setmainfont{Aboriginal Sans} Md. Safirur Rashid \qquad (Aboriginal Sans) \\
+\setmainfont{Aerial} Md. Safirur Rashid \qquad (Aerial) \\
+\setmainfont{Alegreya Sans} Md. Safirur Rashid \qquad (Alegreya Sans) \\
+\setmainfont{Allerta} Md. Safirur Rashid \qquad (Allerta) \\
+\setmainfont{Andika} Md. Safirur Rashid \qquad (Andika) \\
+\setmainfont{Andika Compact} Md. Safirur Rashid \qquad (Andika Compact) \\
+\setmainfont{Andika New Basic} Md. Safirur Rashid \qquad (Andika New Basic) \\
+\setmainfont{Angostura} Md. Safirur Rashid \qquad (Angostura) \\
+\setmainfont{Angostura Black} Md. Safirur Rashid \qquad (Angostura Black) \\
+\setmainfont{Arial} Md. Safirur Rashid \qquad (Arial) \\
+\setmainfont{Arimo} Md. Safirur Rashid \qquad (Arimo) \\
+\setmainfont{Aroania} Md. Safirur Rashid \qquad (Aroania) \\
+\setmainfont{Asap} Md. Safirur Rashid \qquad (Asap) \\
+\setmainfont{Averia GWF} Md. Safirur Rashid \qquad (Averia GWF) \\
+\setmainfont{Averia Sans GWF} Md. Safirur Rashid \qquad (Averia Sans GWF) \\
+\setmainfont{B612} Md. Safirur Rashid \qquad (B612) \\
+\setmainfont{Baloo 2} Md. Safirur Rashid \qquad (Baloo 2) \\
+\setmainfont{Bebas Neue} Md. Safirur Rashid \qquad (Bebas Neue) \\
+\setmainfont{Berenika} Md. Safirur Rashid \qquad (Berenika) \\
+\setmainfont{Bitstream Vera Sans} Md. Safirur Rashid \qquad (Bitstream Vera Sans) \\
+\setmainfont{Blue Highway} Md. Safirur Rashid \qquad (Blue Highway) \\
+\setmainfont{BPG DejaVu Sans 2011 GNU-GPL} Md. Safirur Rashid \qquad (BPG DejaVu Sans 2011 GNU-GPL) \\        
+\setmainfont{BPG Mrgvlovani GPL&GNU} Md. Safirur Rashid \qquad (BPG Mrgvlovani GPL\&GNU) \\
+\setmainfont{BPG Nateli Condenced GPL&GNU} Md. Safirur Rashid \qquad (BPG Nateli Condenced GPL\&GNU) \\       
+\setmainfont{BPG Nateli GPL&GNU} Md. Safirur Rashid \qquad (BPG Nateli GPL\&GNU) \\
+\setmainfont{BPG Sans GPL&GNU} Md. Safirur Rashid \qquad (BPG Sans GPL\&GNU) \\
+\setmainfont{BPG Sans Medium GPL&GNU} Md. Safirur Rashid \qquad (BPG Sans Medium GPL\&GNU) \\
+\setmainfont{BPG Sans Modern GPL&GNU} Md. Safirur Rashid \qquad (BPG Sans Modern GPL\&GNU) \\
+\setmainfont{BPG Sans Regular GPL&GNU} Md. Safirur Rashid \qquad (BPG Sans Regular GPL\&GNU) \\
+\setmainfont{Cabin} Md. Safirur Rashid \qquad (Cabin) \\
+\setmainfont{Cabin Condensed} Md. Safirur Rashid \qquad (Cabin Condensed) \\
+\setmainfont{Cantarell} Md. Safirur Rashid \qquad (Cantarell) \\
+\setmainfont{Carlito} Md. Safirur Rashid \qquad (Carlito) \\
+\setmainfont{Chivo} Md. Safirur Rashid \qquad (Chivo) \\
+\setmainfont{Clear Sans} Md. Safirur Rashid \qquad (Clear Sans) \\
+\setmainfont{CMU Bright} Md. Safirur Rashid \qquad (CMU Bright) \\
+\setmainfont{CMU Sans Serif} Md. Safirur Rashid \qquad (CMU Sans Serif) \\
+\setmainfont{CMU Sans Serif Demi Condensed} Md. Safirur Rashid \qquad (CMU Sans Serif Demi Condensed) \\      
+\setmainfont{Comfortaa} Md. Safirur Rashid \qquad (Comfortaa) \\
+\setmainfont{Comic Neue} Md. Safirur Rashid \qquad (Comic Neue) \\
+\setmainfont{Comic Neue Angular} Md. Safirur Rashid \qquad (Comic Neue Angular) \\
+\setmainfont{Comic Neue Angular Light} Md. Safirur Rashid \qquad (Comic Neue Angular Light) \\
+\setmainfont{Comic Neue Light} Md. Safirur Rashid \qquad (Comic Neue Light) \\
+\setmainfont{Comic Sans MS} Md. Safirur Rashid \qquad (Comic Sans MS) \\
+\setmainfont{Cranberry Gin} Md. Safirur Rashid \qquad (Cranberry Gin) \\
+\setmainfont{Cuprum} Md. Safirur Rashid \qquad (Cuprum) \\
+\setmainfont{DejaVu Sans} Md. Safirur Rashid \qquad (DejaVu Sans) \\
+\setmainfont{Dosis} Md. Safirur Rashid \qquad (Dosis) \\
+\setmainfont{Dream Orphans} Md. Safirur Rashid \qquad (Dream Orphans) \\
+\setmainfont{Droid} Md. Safirur Rashid \qquad (Droid) \\
+\setmainfont{Droid Sans} Md. Safirur Rashid \qquad (Droid Sans) \\
+\setmainfont{Dustismo} Md. Safirur Rashid \qquad (Dustismo) \\
+\setmainfont{Dyuthi} Md. Safirur Rashid \qquad (Dyuthi) \\
+\setmainfont{Eden Mills} Md. Safirur Rashid \qquad (Eden Mills) \\
+\setmainfont{Electron} Md. Safirur Rashid \qquad (Electron) \\
+\setmainfont{Engebrechtre} Md. Safirur Rashid \qquad (Engebrechtre) \\
+\setmainfont{Engebrechtre Expanded} Md. Safirur Rashid \qquad (Engebrechtre Expanded) \\
+\setmainfont{eurofurence} Md. Safirur Rashid \qquad (eurofurence) \\
+\setmainfont{eurofurence classic} Md. Safirur Rashid \qquad (eurofurence classic) \\
+\setmainfont{eurofurence classic light} Md. Safirur Rashid \qquad (eurofurence classic light) \\
+\setmainfont{eurofurence light} Md. Safirur Rashid \qquad (eurofurence light) \\
+\setmainfont{Fetamont} Md. Safirur Rashid \qquad (Fetamont) \\
+\setmainfont{Fetamont Script} Md. Safirur Rashid \qquad (Fetamont Script) \\
+\setmainfont{Fira Sans} Md. Safirur Rashid \qquad (Fira Sans) \\
+\setmainfont{Forgotten Futurist} Md. Safirur Rashid \qquad (Forgotten Futurist) \\
+\setmainfont{Forgotten Futurist College} Md. Safirur Rashid \qquad (Forgotten Futurist College) \\
+\setmainfont{FreeSans} Md. Safirur Rashid \qquad (FreeSans) \\
+\setmainfont{Gemunu Libre} Md. Safirur Rashid \qquad (Gemunu Libre) \\
+\setmainfont{Gemunu Libre ExtraLight} Md. Safirur Rashid \qquad (Gemunu Libre ExtraLight) \\
+\setmainfont{GFS Neohellenic} Md. Safirur Rashid \qquad (GFS Neohellenic) \\
+\setmainfont{Gillius ADF} Md. Safirur Rashid \qquad (Gillius ADF) \\
+\setmainfont{Gillius ADF Cond} Md. Safirur Rashid \qquad (Gillius ADF Cond) \\
+\setmainfont{Gillius ADF No2} Md. Safirur Rashid \qquad (Gillius ADF No2) \\
+\setmainfont{Gillius ADF No2 Cond} Md. Safirur Rashid \qquad (Gillius ADF No2 Cond) \\
+\setmainfont{Go} Md. Safirur Rashid \qquad (Go) \\
+\setmainfont{GoSmallcaps} Md. Safirur Rashid \qquad (GoSmallcaps) \\
+\setmainfont{Gothic Uralic} Md. Safirur Rashid \qquad (Gothic Uralic) \\
+\setmainfont{Gotu} Md. Safirur Rashid \qquad (Gotu) \\
+\setmainfont{Guanine} Md. Safirur Rashid \qquad (Guanine) \\
+\setmainfont{Haramain} Md. Safirur Rashid \qquad (Haramain) \\
+\setmainfont{Hind Madurai} Md. Safirur Rashid \qquad (Hind Madurai) \\
+\setmainfont{Hor} Md. Safirur Rashid \qquad (Hor) \\
+\setmainfont{IBM Plex Sans} Md. Safirur Rashid \qquad (IBM Plex Sans) \\
+\setmainfont{IBM Plex Sans Condensed} Md. Safirur Rashid \qquad (IBM Plex Sans Condensed) \\
+\setmainfont{Ikarius ADF No2 Std} Md. Safirur Rashid \qquad (Ikarius ADF No2 Std) \\
+\setmainfont{Ikarius ADF Std} Md. Safirur Rashid \qquad (Ikarius ADF Std) \\
+\setmainfont{IndUni-H} Md. Safirur Rashid \qquad (IndUni-H) \\
+\setmainfont{Inria Sans} Md. Safirur Rashid \qquad (Inria Sans) \\
+\setmainfont{Inter} Md. Safirur Rashid \qquad (Inter) \\
+\setmainfont{Iwona} Md. Safirur Rashid \qquad (Iwona) \\
+\setmainfont{Iwona Cond} Md. Safirur Rashid \qquad (Iwona Cond) \\
+\setmainfont{Iwona Cond Heavy} Md. Safirur Rashid \qquad (Iwona Cond Heavy) \\
+\setmainfont{Iwona Cond Light} Md. Safirur Rashid \qquad (Iwona Cond Light) \\
+\setmainfont{Iwona Cond Medium} Md. Safirur Rashid \qquad (Iwona Cond Medium) \\
+\setmainfont{Iwona Heavy} Md. Safirur Rashid \qquad (Iwona Heavy) \\
+\setmainfont{Iwona Light} Md. Safirur Rashid \qquad (Iwona Light) \\
+\setmainfont{Iwona Medium} Md. Safirur Rashid \qquad (Iwona Medium) \\
+\setmainfont{Jara} Md. Safirur Rashid \qquad (Jara) \\
+\setmainfont{Josefin Sans} Md. Safirur Rashid \qquad (Josefin Sans) \\
+\setmainfont{Junction} Md. Safirur Rashid \qquad (Junction) \\
+\setmainfont{Jura} Md. Safirur Rashid \qquad (Jura) \\
+\setmainfont{Karmilla} Md. Safirur Rashid \qquad (Karmilla) \\
+\setmainfont{Klaudia} Md. Safirur Rashid \qquad (Klaudia) \\
+\setmainfont{KpSans} Md. Safirur Rashid \qquad (KpSans) \\
+\setmainfont{Kurier} Md. Safirur Rashid \qquad (Kurier) \\
+\setmainfont{Kurier Cond} Md. Safirur Rashid \qquad (Kurier Cond) \\
+\setmainfont{Kurier Cond Heavy} Md. Safirur Rashid \qquad (Kurier Cond Heavy) \\
+\setmainfont{Kurier Cond Light} Md. Safirur Rashid \qquad (Kurier Cond Light) \\
+\setmainfont{Kurier Cond Medium} Md. Safirur Rashid \qquad (Kurier Cond Medium) \\
+\setmainfont{Kurier Heavy} Md. Safirur Rashid \qquad (Kurier Heavy) \\
+\setmainfont{Kurier Light} Md. Safirur Rashid \qquad (Kurier Light) \\
+\setmainfont{Kurier Medium} Md. Safirur Rashid \qquad (Kurier Medium) \\
+\setmainfont{Latin Modern Sans} Md. Safirur Rashid \qquad (Latin Modern Sans) \\
+\setmainfont{Latin Modern Sans Demi Cond} Md. Safirur Rashid \qquad (Latin Modern Sans Demi Cond) \\
+\setmainfont{Latin Modern Sans Quotation} Md. Safirur Rashid \qquad (Latin Modern Sans Quotation) \\
+\setmainfont{Lato} Md. Safirur Rashid \qquad (Lato) \\
+\setmainfont{League Spartan} Md. Safirur Rashid \qquad (League Spartan) \\
+\setmainfont{Libel Suit} Md. Safirur Rashid \qquad (Libel Suit) \\
+\setmainfont{Liberation Sans} Md. Safirur Rashid \qquad (Liberation Sans) \\
+\setmainfont{Liberation Sans Narrow} Md. Safirur Rashid \qquad (Liberation Sans Narrow) \\
+\setmainfont{Libertinus Keyboard} Md. Safirur Rashid \qquad (Libertinus Keyboard) \\
+\setmainfont{Libertinus Sans} Md. Safirur Rashid \qquad (Libertinus Sans) \\
+\setmainfont{Libris ADF Std} Md. Safirur Rashid \qquad (Libris ADF Std) \\
+\setmainfont{Linux Biolinum Keyboard O} Md. Safirur Rashid \qquad (Linux Biolinum Keyboard O) \\
+\setmainfont{Linux Biolinum O} Md. Safirur Rashid \qquad (Linux Biolinum O) \\
+\setmainfont{Manrope} Md. Safirur Rashid \qquad (Manrope) \\
+\setmainfont{Merriweather Sans} Md. Safirur Rashid \qquad (Merriweather Sans) \\
+\setmainfont{Mint Spirit} Md. Safirur Rashid \qquad (Mint Spirit) \\
+\setmainfont{Mint Spirit No2} Md. Safirur Rashid \qquad (Mint Spirit No2) \\
+\setmainfont{Montserrat} Md. Safirur Rashid \qquad (Montserrat) \\
+\setmainfont{Montserrat Alternates} Md. Safirur Rashid \qquad (Montserrat Alternates) \\
+\setmainfont{Mukta} Md. Safirur Rashid \qquad (Mukta) \\
+\setmainfont{NewComputerModernSans08} Md. Safirur Rashid \qquad (NewComputerModernSans08) \\
+\setmainfont{NewComputerModernSans10} Md. Safirur Rashid \qquad (NewComputerModernSans10) \\
+\setmainfont{Nimbus Sans} Md. Safirur Rashid \qquad (Nimbus Sans) \\
+\setmainfont{Nimbus Sans Narrow} Md. Safirur Rashid \qquad (Nimbus Sans Narrow) \\
+\setmainfont{Noto Sans} Md. Safirur Rashid \qquad (Noto Sans) \\
+\setmainfont{Open Sans} Md. Safirur Rashid \qquad (Open Sans) \\
+\setmainfont{OpenDyslexic} Md. Safirur Rashid \qquad (OpenDyslexic) \\
+\setmainfont{OpenDyslexicAlta} Md. Safirur Rashid \qquad (OpenDyslexicAlta) \\
+\setmainfont{Overlock} Md. Safirur Rashid \qquad (Overlock) \\
+\setmainfont{Oxygen-Sans} Md. Safirur Rashid \qquad (Oxygen-Sans) \\
+\setmainfont{Pakenham} Md. Safirur Rashid \qquad (Pakenham) \\
+\setmainfont{Play} Md. Safirur Rashid \qquad (Play) \\
+\setmainfont{Primer Print} Md. Safirur Rashid \qquad (Primer Print) \\
+\setmainfont{PT Sans} Md. Safirur Rashid \qquad (PT Sans) \\
+\setmainfont{PT Sans Caption} Md. Safirur Rashid \qquad (PT Sans Caption) \\
+\setmainfont{PT Sans Narrow} Md. Safirur Rashid \qquad (PT Sans Narrow) \\
+\setmainfont{QTAgateType} Md. Safirur Rashid \qquad (QTAgateType) \\
+\setmainfont{QTAncientOlive} Md. Safirur Rashid \qquad (QTAncientOlive) \\
+\setmainfont{QTAvanti} Md. Safirur Rashid \qquad (QTAvanti) \\
+\setmainfont{QTDoghaus} Md. Safirur Rashid \qquad (QTDoghaus) \\
+\setmainfont{QTEraType} Md. Safirur Rashid \qquad (QTEraType) \\
+\setmainfont{QTEurotype} Md. Safirur Rashid \qquad (QTEurotype) \\
+\setmainfont{QTFloraline} Md. Safirur Rashid \qquad (QTFloraline) \\
+\setmainfont{QTFrank} Md. Safirur Rashid \qquad (QTFrank) \\
+\setmainfont{QTFuture} Md. Safirur Rashid \qquad (QTFuture) \\
+\setmainfont{QTHelvetCnd} Md. Safirur Rashid \qquad (QTHelvetCnd) \\
+\setmainfont{QTHowardType} Md. Safirur Rashid \qquad (QTHowardType) \\
+\setmainfont{QTLetterGoth} Md. Safirur Rashid \qquad (QTLetterGoth) \\
+\setmainfont{QTOptimum} Md. Safirur Rashid \qquad (QTOptimum) \\
+\setmainfont{QTParisFrance} Md. Safirur Rashid \qquad (QTParisFrance) \\
+\setmainfont{QTPeignoir} Md. Safirur Rashid \qquad (QTPeignoir) \\
+\setmainfont{QTVagaRound} Md. Safirur Rashid \qquad (QTVagaRound) \\
+\setmainfont{Quattrocento Sans} Md. Safirur Rashid \qquad (Quattrocento Sans) \\
+\setmainfont{Quicksand} Md. Safirur Rashid \qquad (Quicksand) \\
+\setmainfont{Radis Sans} Md. Safirur Rashid \qquad (Radis Sans) \\
+\setmainfont{Raleway} Md. Safirur Rashid \qquad (Raleway) \\
+\setmainfont{Roboto} Md. Safirur Rashid \qquad (Roboto) \\
+\setmainfont{Roboto Condensed} Md. Safirur Rashid \qquad (Roboto Condensed) \\
+\setmainfont{Rosario} Md. Safirur Rashid \qquad (Rosario) \\
+\setmainfont{Sans Condensed Uralic} Md. Safirur Rashid \qquad (Sans Condensed Uralic) \\
+\setmainfont{Sans Uralic} Md. Safirur Rashid \qquad (Sans Uralic) \\
+\setmainfont{Sophia Nubian} Md. Safirur Rashid \qquad (Sophia Nubian) \\
+\setmainfont{Sora} Md. Safirur Rashid \qquad (Sora) \\
+\setmainfont{Source Sans Pro} Md. Safirur Rashid \qquad (Source Sans Pro) \\
+\setmainfont{Spongy} Md. Safirur Rashid \qquad (Spongy) \\
+\setmainfont{Steelfish} Md. Safirur Rashid \qquad (Steelfish) \\
+%\setmainfont{STOMP_Zeroes} Md. Safirur Rashid \qquad (STOMP_Zeroes) \\
+\setmainfont{Switzera ADF} Md. Safirur Rashid \qquad (Switzera ADF) \\
+\setmainfont{Taogu} Md. Safirur Rashid \qquad (Taogu) \\
+\setmainfont{Teen} Md. Safirur Rashid \qquad (Teen) \\
+\setmainfont{TeX Gyre Adventor} Md. Safirur Rashid \qquad (TeX Gyre Adventor) \\
+\setmainfont{TeX Gyre Heros} Md. Safirur Rashid \qquad (TeX Gyre Heros) \\
+\setmainfont{TeX Gyre Heros Cn} Md. Safirur Rashid \qquad (TeX Gyre Heros Cn) \\
+\setmainfont{Trebuchet MS} Md. Safirur Rashid \qquad (Trebuchet MS) \\
+\setmainfont{Tuffy} Md. Safirur Rashid \qquad (Tuffy) \\
+\setmainfont{Ubuntu} Md. Safirur Rashid \qquad (Ubuntu) \\
+\setmainfont{unifur} Md. Safirur Rashid \qquad (unifur) \\
+\setmainfont{Universalis ADF Std} Md. Safirur Rashid \qquad (Universalis ADF Std) \\
+\setmainfont{URW Gothic} Md. Safirur Rashid \qquad (URW Gothic) \\
+\setmainfont{Verana Sans} Md. Safirur Rashid \qquad (Verana Sans) \\
+\setmainfont{Veranda} Md. Safirur Rashid \qquad (Veranda) \\
+\setmainfont{Verdana} Md. Safirur Rashid \qquad (Verdana) \\
+\setmainfont{Yanone Kaffeesatz} Md. Safirur Rashid \qquad (Yanone Kaffeesatz) \\
+\setmainfont{Zrnic} Md. Safirur Rashid \qquad (Zrnic) \\
+\setmainfont{AeMMono10} Md. Safirur Rashid \qquad (AeMMono10) \\
+\setmainfont{Aerial Mono} Md. Safirur Rashid \qquad (Aerial Mono) \\
+\setmainfont{Andale Mono} Md. Safirur Rashid \qquad (Andale Mono) \\
+\setmainfont{Anonymous Pro} Md. Safirur Rashid \qquad (Anonymous Pro) \\
+\setmainfont{B612 Mono} Md. Safirur Rashid \qquad (B612 Mono) \\
+\setmainfont{BabelStone Modern} Md. Safirur Rashid \qquad (BabelStone Modern) \\
+\setmainfont{Bitstream Vera Sans Mono} Md. Safirur Rashid \qquad (Bitstream Vera Sans Mono) \\
+\setmainfont{Cascadia Cod3} Md. Safirur Rashid \qquad (Cascadia Cod3) \\
+\setmainfont{Cascadia Code PL} Md. Safirur Rashid \qquad (Cascadia Code PL) \\
+\setmainfont{CMU Typewriter Text} Md. Safirur Rashid \qquad (CMU Typewriter Text) \\
+\setmainfont{Courier 10 Pitch} Md. Safirur Rashid \qquad (Courier 10 Pitch) \\
+\setmainfont{Courier New} Md. Safirur Rashid \qquad (Courier New) \\
+\setmainfont{Cousine} Md. Safirur Rashid \qquad (Cousine) \\
+\setmainfont{Cuomotype} Md. Safirur Rashid \qquad (Cuomotype) \\
+\setmainfont{D2Coding} Md. Safirur Rashid \qquad (D2Coding) \\
+\setmainfont{D2Coding ligature} Md. Safirur Rashid \qquad (D2Coding ligature) \\
+\setmainfont{DejaVu Sans Mono} Md. Safirur Rashid \qquad (DejaVu Sans Mono) \\
+\setmainfont{Droid Sans Mono} Md. Safirur Rashid \qquad (Droid Sans Mono) \\
+\setmainfont{Fantasque Sans Mono} Md. Safirur Rashid \qquad (Fantasque Sans Mono) \\
+\setmainfont{Fira Code} Md. Safirur Rashid \qquad (Fira Code) \\
+\setmainfont{Fira Mono} Md. Safirur Rashid \qquad (Fira Mono) \\
+\setmainfont{FreeMono} Md. Safirur Rashid \qquad (FreeMono) \\
+\setmainfont{GNUTypewriter} Md. Safirur Rashid \qquad (GNUTypewriter) \\
+\setmainfont{Go Mono} Md. Safirur Rashid \qquad (Go Mono) \\
+\setmainfont{GWMonospace} Md. Safirur Rashid \qquad (GWMonospace) \\
+\setmainfont{Hack} Md. Safirur Rashid \qquad (Hack) \\
+\setmainfont{IBM Plex Mono} Md. Safirur Rashid \qquad (IBM Plex Mono) \\
+\setmainfont{Inconsolata} Md. Safirur Rashid \qquad (Inconsolata) \\
+\setmainfont{InconsolataN} Md. Safirur Rashid \qquad (InconsolataN) \\
+\setmainfont{Inconsolatazi4} Md. Safirur Rashid \qquad (Inconsolatazi4) \\
+\setmainfont{IndUni-C} Md. Safirur Rashid \qquad (IndUni-C) \\
+\setmainfont{JetBrains Mono} Md. Safirur Rashid \qquad (JetBrains Mono) \\
+\setmainfont{KpMono} Md. Safirur Rashid \qquad (KpMono) \\
+\setmainfont{Larabiefont} Md. Safirur Rashid \qquad (Larabiefont) \\
+\setmainfont{Latin Modern Mono} Md. Safirur Rashid \qquad (Latin Modern Mono) \\
+\setmainfont{Latin Modern Mono Caps} Md. Safirur Rashid \qquad (Latin Modern Mono Caps) \\
+\setmainfont{Latin Modern Mono Light} Md. Safirur Rashid \qquad (Latin Modern Mono Light) \\
+\setmainfont{Latin Modern Mono Light Cond} Md. Safirur Rashid \qquad (Latin Modern Mono Light Cond) \\
+\setmainfont{Latin Modern Mono Prop} Md. Safirur Rashid \qquad (Latin Modern Mono Prop) \\
+\setmainfont{Latin Modern Mono Prop Light} Md. Safirur Rashid \qquad (Latin Modern Mono Prop Light) \\
+\setmainfont{Latin Modern Mono Slanted} Md. Safirur Rashid \qquad (Latin Modern Mono Slanted) \\
+\setmainfont{League Mono} Md. Safirur Rashid \qquad (League Mono) \\
+\setmainfont{Liberation Mono} Md. Safirur Rashid \qquad (Liberation Mono) \\
+\setmainfont{Libertinus Mono} Md. Safirur Rashid \qquad (Libertinus Mono) \\
+\setmainfont{Linux Libertine Mono O} Md. Safirur Rashid \qquad (Linux Libertine Mono O) \\
+\setmainfont{Logix Mono} Md. Safirur Rashid \qquad (Logix Mono) \\
+\setmainfont{Mono Uralic} Md. Safirur Rashid \qquad (Mono Uralic) \\
+\setmainfont{Monofonto} Md. Safirur Rashid \qquad (Monofonto) \\
+\setmainfont{monofur} Md. Safirur Rashid \qquad (monofur) \\
+\setmainfont{mononoki} Md. Safirur Rashid \qquad (mononoki) \\
+\setmainfont{NewComputerModernMono10} Md. Safirur Rashid \qquad (NewComputerModernMono10) \\
+\setmainfont{Nimbus Mono} Md. Safirur Rashid \qquad (Nimbus Mono) \\
+\setmainfont{Nimbus Mono PS} Md. Safirur Rashid \qquad (Nimbus Mono PS) \\
+\setmainfont{Noto Mono} Md. Safirur Rashid \qquad (Noto Mono) \\
+\setmainfont{Noto Sans Mono} Md. Safirur Rashid \qquad (Noto Sans Mono) \\
+\setmainfont{OpenDyslexicMono} Md. Safirur Rashid \qquad (OpenDyslexicMono) \\
+\setmainfont{osifont} Md. Safirur Rashid \qquad (osifont) \\
+\setmainfont{Oxygen Mono} Md. Safirur Rashid \qquad (Oxygen Mono) \\
+\setmainfont{PT Mono} Md. Safirur Rashid \qquad (PT Mono) \\
+\setmainfont{QTChicagoland} Md. Safirur Rashid \qquad (QTChicagoland) \\
+\setmainfont{QTPristine} Md. Safirur Rashid \qquad (QTPristine) \\
+\setmainfont{QTRobotic2000} Md. Safirur Rashid \qquad (QTRobotic2000) \\
+\setmainfont{Ricty Diminished} Md. Safirur Rashid \qquad (Ricty Diminished) \\
+\setmainfont{Ricty Diminished Discord} Md. Safirur Rashid \qquad (Ricty Diminished Discord) \\
+\setmainfont{Roboto Mono} Md. Safirur Rashid \qquad (Roboto Mono) \\
+\setmainfont{Source Code Pro} Md. Safirur Rashid \qquad (Source Code Pro) \\
+\setmainfont{TeX Gyre Cursor} Md. Safirur Rashid \qquad (TeX Gyre Cursor) \\
+\setmainfont{Ubuntu Mono} Md. Safirur Rashid \qquad (Ubuntu Mono) \\
+\setmainfont{UM Typewriter} Md. Safirur Rashid \qquad (UM Typewriter) \\
+\setmainfont{Unispace} Md. Safirur Rashid \qquad (Unispace) \\
+\setmainfont{Apropal} Md. Safirur Rashid \qquad (Apropal) \\
+\setmainfont{Apropal Bold} Md. Safirur Rashid \qquad (Apropal Bold) \\
+\setmainfont{Arial Black} Md. Safirur Rashid \qquad (Arial Black) \\
+\setmainfont{Carbon Block} Md. Safirur Rashid \qquad (Carbon Block) \\
+\setmainfont{Carbon Phyber} Md. Safirur Rashid \qquad (Carbon Phyber) \\
+\setmainfont{Coolvetica} Md. Safirur Rashid \qquad (Coolvetica) \\
+\setmainfont{Cyklop} Md. Safirur Rashid \qquad (Cyklop) \\
+\setmainfont{Gemunu Libre ExtraBold} Md. Safirur Rashid \qquad (Gemunu Libre ExtraBold) \\
+\setmainfont{Guanine} Md. Safirur Rashid \qquad (Guanine) \\
+\setmainfont{Impact} Md. Safirur Rashid \qquad (Impact) \\
+\setmainfont{Kenyan Coffee} Md. Safirur Rashid \qquad (Kenyan Coffee) \\
+\setmainfont{Kimberley} Md. Safirur Rashid \qquad (Kimberley) \\
+\setmainfont{Millimetre} Md. Safirur Rashid \qquad (Millimetre) \\
+\setmainfont{Mold Papa} Md. Safirur Rashid \qquad (Mold Papa) \\
+\setmainfont{Oliver's Barney} Md. Safirur Rashid \qquad (Oliver's Barney) \\
+\setmainfont{Pricedown} Md. Safirur Rashid \qquad (Pricedown) \\
+\setmainfont{QTAtchen} Md. Safirur Rashid \qquad (QTAtchen) \\
+\setmainfont{QTBlimpo} Md. Safirur Rashid \qquad (QTBlimpo) \\
+\setmainfont{QTBodiniPoster} Md. Safirur Rashid \qquad (QTBodiniPoster) \\
+\setmainfont{QTDeuce} Md. Safirur Rashid \qquad (QTDeuce) \\
+\setmainfont{QTDoghausHeavy} Md. Safirur Rashid \qquad (QTDoghausHeavy) \\
+\setmainfont{QTFrankHeavy} Md. Safirur Rashid \qquad (QTFrankHeavy) \\
+\setmainfont{QTGreece} Md. Safirur Rashid \qquad (QTGreece) \\
+\setmainfont{QTHowardTypeFat} Md. Safirur Rashid \qquad (QTHowardTypeFat) \\
+%\setmainfont{QTImpromptu} Md. Safirur Rashid \qquad (QTImpromptu) \\
+\setmainfont{QTKooper} Md. Safirur Rashid \qquad (QTKooper) \\
+\setmainfont{QTMilitary} Md. Safirur Rashid \qquad (QTMilitary) \\
+\setmainfont{QTTheatre} Md. Safirur Rashid \qquad (QTTheatre) \\
+\setmainfont{Rustproof Body} Md. Safirur Rashid \qquad (Rustproof Body) \\
+\setmainfont{Screengem} Md. Safirur Rashid \qquad (Screengem) \\
+\setmainfont{Should've Known} Md. Safirur Rashid \qquad (Should've Known) \\
+\setmainfont{Strenuous} Md. Safirur Rashid \qquad (Strenuous) \\
+\setmainfont{Sui Generis} Md. Safirur Rashid \qquad (Sui Generis) \\
+\setmainfont{Velvenda Megablack} Md. Safirur Rashid \qquad (Velvenda Megablack) \\
+\setmainfont{Vipnagorgialla} Md. Safirur Rashid \qquad (Vipnagorgialla) \\
+\setmainfont{Vollkorn ExtraBold} Md. Safirur Rashid \qquad (Vollkorn ExtraBold) \\
+\setmainfont{Bajaderka} Md. Safirur Rashid \qquad (Bajaderka) \\
+\setmainfont{Bramalea Beauty} Md. Safirur Rashid \qquad (Bramalea Beauty) \\
+\setmainfont{Chancery Uralic} Md. Safirur Rashid \qquad (Chancery Uralic) \\
+\setmainfont{Colourbars} Md. Safirur Rashid \qquad (Colourbars) \\
+\setmainfont{Compagnon} Md. Safirur Rashid \qquad (Compagnon) \\
+\setmainfont{Compagnon Italic} Md. Safirur Rashid \qquad (Compagnon Italic) \\
+\setmainfont{Cretino} Md. Safirur Rashid \qquad (Cretino) \\
+\setmainfont{Dancing Script} Md. Safirur Rashid \qquad (Dancing Script) \\
+\setmainfont{Deftone Stylus} Md. Safirur Rashid \qquad (Deftone Stylus) \\
+\setmainfont{Dyspepsia} Md. Safirur Rashid \qquad (Dyspepsia) \\
+\setmainfont{Elegante} Md. Safirur Rashid \qquad (Elegante) \\
+\setmainfont{Great Vibes} Md. Safirur Rashid \qquad (Great Vibes) \\
+\setmainfont{Joscelyn} Md. Safirur Rashid \qquad (Joscelyn) \\
+\setmainfont{Kerkis-Calligraphic} Md. Safirur Rashid \qquad (Kerkis-Calligraphic) \\
+\setmainfont{LeckerliOne} Md. Safirur Rashid \qquad (LeckerliOne) \\
+\setmainfont{Lemonada} Md. Safirur Rashid \qquad (Lemonada) \\
+\setmainfont{Lesser Concern} Md. Safirur Rashid \qquad (Lesser Concern) \\
+\setmainfont{Lobster Two} Md. Safirur Rashid \qquad (Lobster Two) \\
+\setmainfont{Miama Nueva} Md. Safirur Rashid \qquad (Miama Nueva) \\
+\setmainfont{Oldania ADF Std} Md. Safirur Rashid \qquad (Oldania ADF Std) \\
+\setmainfont{Port Credit} Md. Safirur Rashid \qquad (Port Credit) \\
+\setmainfont{Ptolemy} Md. Safirur Rashid \qquad (Ptolemy) \\
+\setmainfont{QTArabian} Md. Safirur Rashid \qquad (QTArabian) \\
+\setmainfont{QTArnieB} Md. Safirur Rashid \qquad (QTArnieB) \\
+\setmainfont{QTArtiston} Md. Safirur Rashid \qquad (QTArtiston) \\
+\setmainfont{QTBeckman} Md. Safirur Rashid \qquad (QTBeckman) \\
+\setmainfont{QTBoulevard} Md. Safirur Rashid \qquad (QTBoulevard) \\
+\setmainfont{QTBrushStroke} Md. Safirur Rashid \qquad (QTBrushStroke) \\
+\setmainfont{QTCaligulatype} Md. Safirur Rashid \qquad (QTCaligulatype) \\
+\setmainfont{QTCanaithtype} Md. Safirur Rashid \qquad (QTCanaithtype) \\
+\setmainfont{QTChanceryType} Md. Safirur Rashid \qquad (QTChanceryType) \\
+\setmainfont{QTCoronation} Md. Safirur Rashid \qquad (QTCoronation) \\
+\setmainfont{QTFlorencia} Md. Safirur Rashid \qquad (QTFlorencia) \\
+\setmainfont{QTHoboken} Md. Safirur Rashid \qquad (QTHoboken) \\
+\setmainfont{QTLautrecType} Md. Safirur Rashid \qquad (QTLautrecType) \\
+\setmainfont{QTLinostroke} Md. Safirur Rashid \qquad (QTLinostroke) \\
+\setmainfont{QTMerryScript} Md. Safirur Rashid \qquad (QTMerryScript) \\
+\setmainfont{QTPandora} Md. Safirur Rashid \qquad (QTPandora) \\
+\setmainfont{QTSlogantype} Md. Safirur Rashid \qquad (QTSlogantype) \\
+\setmainfont{QTUSA-Uncial} Md. Safirur Rashid \qquad (QTUSA-Uncial) \\
+\setmainfont{QTWestEnd} Md. Safirur Rashid \qquad (QTWestEnd) \\
+\setmainfont{Rina} Md. Safirur Rashid \qquad (Rina) \\
+\setmainfont{Roman Uralic} Md. Safirur Rashid \qquad (Roman Uralic) \\
+\setmainfont{Romande ADF Script Std} Md. Safirur Rashid \qquad (Romande ADF Script Std) \\
+\setmainfont{Rot} Md. Safirur Rashid \qquad (Rot) \\
+\setmainfont{Rusch} Md. Safirur Rashid \qquad (Rusch) \\
+\setmainfont{TeX Gyre Chorus} Md. Safirur Rashid \qquad (TeX Gyre Chorus) \\
+\setmainfont{TriodPostnaja} Md. Safirur Rashid \qquad (TriodPostnaja) \\
+\setmainfont{Z003} Md. Safirur Rashid \qquad (Z003) \\
+\setmainfont{AirCut} Md. Safirur Rashid \qquad (AirCut) \\
+\setmainfont{Breip} Md. Safirur Rashid \qquad (Breip) \\
+\setmainfont{Cabin Sketch} Md. Safirur Rashid \qquad (Cabin Sketch) \\
+\setmainfont{CabinSketch} Md. Safirur Rashid \qquad (CabinSketch) \\
+\setmainfont{Comic Neue} Md. Safirur Rashid \qquad (Comic Neue) \\
+\setmainfont{Comic Neue Angular} Md. Safirur Rashid \qquad (Comic Neue Angular) \\
+\setmainfont{Comic Sans MS} Md. Safirur Rashid \qquad (Comic Sans MS) \\
+\setmainfont{Deportees} Md. Safirur Rashid \qquad (Deportees) \\
+\setmainfont{DkgHandwriting} Md. Safirur Rashid \qquad (DkgHandwriting) \\
+\setmainfont{Domestic Manners} Md. Safirur Rashid \qquad (Domestic Manners) \\
+\setmainfont{Duality} Md. Safirur Rashid \qquad (Duality) \\
+\setmainfont{El Abogado Loco} Md. Safirur Rashid \qquad (El Abogado Loco) \\
+\setmainfont{Eye Rhyme} Md. Safirur Rashid \qquad (Eye Rhyme) \\
+\setmainfont{Field Day Filter} Md. Safirur Rashid \qquad (Field Day Filter) \\
+\setmainfont{Havana} Md. Safirur Rashid \qquad (Havana) \\
+\setmainfont{Hurontario} Md. Safirur Rashid \qquad (Hurontario) \\
+\setmainfont{Junction} Md. Safirur Rashid \qquad (Junction) \\
+\setmainfont{Karumbi} Md. Safirur Rashid \qquad (Karumbi) \\
+\setmainfont{Kaushan Script} Md. Safirur Rashid \qquad (Kaushan Script) \\
+\setmainfont{Kleptocracy} Md. Safirur Rashid \qquad (Kleptocracy) \\
+\setmainfont{Kristi} Md. Safirur Rashid \qquad (Kristi) \\
+\setmainfont{Minya Nouvelle} Md. Safirur Rashid \qquad (Minya Nouvelle) \\
+\setmainfont{Mufferaw} Md. Safirur Rashid \qquad (Mufferaw) \\
+\setmainfont{Pecita} Md. Safirur Rashid \qquad (Pecita) \\
+\setmainfont{Pupcat} Md. Safirur Rashid \qquad (Pupcat) \\
+\setmainfont{Purisa} Md. Safirur Rashid \qquad (Purisa) \\
+\setmainfont{QTAbbie} Md. Safirur Rashid \qquad (QTAbbie) \\
+\setmainfont{QTCascadetype} Md. Safirur Rashid \qquad (QTCascadetype) \\
+\setmainfont{QTCasual} Md. Safirur Rashid \qquad (QTCasual) \\
+\setmainfont{QTHandwriting} Md. Safirur Rashid \qquad (QTHandwriting) \\
+\setmainfont{QTKung-Fu} Md. Safirur Rashid \qquad (QTKung-Fu) \\
+\setmainfont{QTMagicMarker} Md. Safirur Rashid \qquad (QTMagicMarker) \\
+\setmainfont{QTSanDiego} Md. Safirur Rashid \qquad (QTSanDiego) \\
+\setmainfont{QTTechtone} Md. Safirur Rashid \qquad (QTTechtone) \\
+\setmainfont{Rufscript} Md. Safirur Rashid \qquad (Rufscript) \\
+\setmainfont{SetoFont} Md. Safirur Rashid \qquad (SetoFont) \\
+\setmainfont{Still Time} Md. Safirur Rashid \qquad (Still Time) \\
+\setmainfont{Tork} Md. Safirur Rashid \qquad (Tork) \\
+\setmainfont{Walshes} Md. Safirur Rashid \qquad (Walshes) \\
+%\setmainfont{Blankenburg_UNZ1A} Md. Safirur Rashid \qquad (Blankenburg_UNZ1A) \\
+\setmainfont{Fette classic UNZ Fraktur} Md. Safirur Rashid \qquad (Fette classic UNZ Fraktur) \\
+\setmainfont{Fust & Schoeffer} Md. Safirur Rashid \qquad (Fust \& Schoeffer) \\
+\setmainfont{Gamaliel} Md. Safirur Rashid \qquad (Gamaliel) \\
+\setmainfont{Hamlet} Md. Safirur Rashid \qquad (Hamlet) \\
+\setmainfont{Jessen} Md. Safirur Rashid \qquad (Jessen) \\
+\setmainfont{Isabella} Md. Safirur Rashid \qquad (Isabella) \\
+\setmainfont{QTBlackForest} Md. Safirur Rashid \qquad (QTBlackForest) \\
+\setmainfont{QTCloisteredMonk} Md. Safirur Rashid \qquad (QTCloisteredMonk) \\
+\setmainfont{QTDublinIrish} Md. Safirur Rashid \qquad (QTDublinIrish) \\
+\setmainfont{QTFraktur} Md. Safirur Rashid \qquad (QTFraktur) \\
+\setmainfont{QTHeidelbergType} Md. Safirur Rashid \qquad (QTHeidelbergType) \\
+\setmainfont{QTLinoscroll} Md. Safirur Rashid \qquad (QTLinoscroll) \\
+\setmainfont{QTLondonScroll} Md. Safirur Rashid \qquad (QTLondonScroll) \\
+\setmainfont{Zainer} Md. Safirur Rashid \qquad (Zainer) \\
+\setmainfont{Asana Math} Md. Safirur Rashid \qquad (Asana Math) \\
+\setmainfont{Erewhon Math} Md. Safirur Rashid \qquad (Erewhon Math) \\
+\setmainfont{Fira Math} Md. Safirur Rashid \qquad (Fira Math) \\
+\setmainfont{GFS Neohellenic Math} Md. Safirur Rashid \qquad (GFS Neohellenic Math) \\
+\setmainfont{Garamond-Math} Md. Safirur Rashid \qquad (Garamond-Math) \\
+\setmainfont{KpMath} Md. Safirur Rashid \qquad (KpMath) \\
+\setmainfont{Latin Modern Math} Md. Safirur Rashid \qquad (Latin Modern Math) \\
+\setmainfont{Libertinus Math} Md. Safirur Rashid \qquad (Libertinus Math) \\
+\setmainfont{NewComputerModernMath} Md. Safirur Rashid \qquad (NewComputerModernMath) \\
+\setmainfont{STIX Math} Md. Safirur Rashid \qquad (STIX Math) \\
+\setmainfont{STIX Two Math} Md. Safirur Rashid \qquad (STIX Two Math) \\
+\setmainfont{TeX Gyre Bonum Math} Md. Safirur Rashid \qquad (TeX Gyre Bonum Math) \\
+\setmainfont{TeX Gyre DejaVu Math} Md. Safirur Rashid \qquad (TeX Gyre DejaVu Math) \\
+\setmainfont{TeX Gyre Pagella Math} Md. Safirur Rashid \qquad (TeX Gyre Pagella Math) \\
+\setmainfont{TeX Gyre Schola Math} Md. Safirur Rashid \qquad (TeX Gyre Schola Math) \\
+\setmainfont{TeX Gyre Termes Math} Md. Safirur Rashid \qquad (TeX Gyre Termes Math) \\
+\setmainfont{XCharter Math} Md. Safirur Rashid \qquad (XCharter Math) \\
+%\setmainfont{XITS Mat} Md. Safirur Rashid \qquad (XITS Mat) \\
